@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CurrencyConverter</string>
+    <string name="rupees_r">Rupees(R)</string>
+    <string name="name1">Name</string>
+    <string name="dollars">Dollars($)</string>
+    <string name="name">Name</string>
+    <string name="todo">TODO</string>
 </resources>
